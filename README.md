@@ -14,4 +14,4 @@ Dependencies
 <br>
 <a href="https://github.com/qbcore-framework/qb-core">QBCore</a>
 <br>
-<a href="https://www.gta5-mods.com/maps/43-motel-interior-blaine-county-and-los-santos">QBCore</a>
+<a href="https://www.gta5-mods.com/maps/43-motel-interior-blaine-county-and-los-santos">MLO</a>
