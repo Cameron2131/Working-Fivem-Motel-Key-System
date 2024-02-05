@@ -52,3 +52,5 @@ motelkey_1  = { name = 'motelkey_1', label = 'Motel Room One', weight = 100, typ
 <br>
 
 ![image 5](https://github.com/Cameron2131/Working-Fivem-Motel-Key-System/assets/149907059/28c25121-4e06-49bf-9627-4dfdad9d355e)
+
+# MAKE SURE TO REMOVE THE QbDoorLock FILE OUT OF THE MLO FOLDER
