@@ -13,5 +13,5 @@ For Support Or To See Upcoming Projects Go To Our Discord @ https://discord.gg/u
 Dependencies
 <br>
 <a href="https://github.com/qbcore-framework/qb-core">QBCore</a>
-::marker
+<br>
 <a href="https://www.gta5-mods.com/maps/43-motel-interior-blaine-county-and-los-santos">QBCore</a>
